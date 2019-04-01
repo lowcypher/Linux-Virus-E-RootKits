@@ -216,6 +216,9 @@ duradouros.
 
 Até mais.
 
+Vídeo no YouTube: https://youtu.be/wGdFoOsykA0
+Link Artigo: http://www.mariomedeiros.eti.br/artigos/index.php?article48/virus-linux-e-rootkits
+
 Algumas Referências e Links:
 https://www.diolinux.com.br/2014/02/por-que-linux-android-nao-pega-virus.html
 https://wiki.debian.org/configura%C3%A7%C3%A3o%20repositorios%20PT%20BR
