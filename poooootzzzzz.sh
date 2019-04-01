@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#find ~/blabla/ -type f | sort -R | head -1 
-
-#-exec rm -rfv {} \; 
-
 echo "feito!!" &&
 
 echo '
